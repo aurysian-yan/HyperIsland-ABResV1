@@ -1,0 +1,49 @@
+{
+  "item": {
+    "name": "超级岛HyperIsland",
+    "description": "你的手表，也能上岛——把超级岛搬上你的手表的深度可编辑表盘。点击我的名字直达购买。",
+    "preview": [
+      "HL-0.png",
+      "HL-1.png",
+      "HL-2.png",
+      "HL-3.png",
+      "HL-4.png",
+      "HL-5.png",
+      "HL-6.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "",
+    "author": [
+      {
+        "name": "安龙Aurysian",
+        "author_url": "https://www.bandbbs.cn/members/418071/"
+      },
+      {
+        "name": "hrsthrt74",
+        "author_url": "https://www.bandbbs.cn/members/296762/"
+      },
+      {
+        "name": "直达购买链接",
+        "author_url": "https://afdian.com/item/856f5592c09311f0940352540025c377"
+      }
+    ]
+  },
+  "downloads": {
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "9p-preview.bin"
+    },
+    "o65m": {
+      "version": "1.0.0",
+      "file_name": "rw-preview.bin"
+    },
+    "p65": {
+      "version": "1.0.0",
+      "file_name": "rw-preview.bin"
+    },
+    "o65": {
+      "version": "1.0.0",
+      "file_name": "rw-preview.bin"
+    }
+  }
+}
